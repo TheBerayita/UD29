@@ -1,0 +1,18 @@
+h1{
+    color: rgb(62, 150, 223);
+    font-weight:bolder;
+    margin-left: 10px;
+}
+
+table{
+    margin-left: 10px;
+}
+
+footer{
+    width: 800px;
+    margin-left: 10px;
+    display: inline-block;
+}
+.botones{
+    display: inline-block;
+}
